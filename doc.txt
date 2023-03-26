@@ -1,0 +1,5 @@
+npm create vite@latest nom_de_projet -- --template react
+cd nom_de_projet
+npm install
+
+npm run dev
